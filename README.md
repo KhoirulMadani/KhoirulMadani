@@ -36,7 +36,7 @@
   <img align="left" alt="javascript" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"   /> 
   <img align="left" alt="typescript" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"    />
   <img align="left" alt="reactnative" width="40" src="https://reactnative.dev/img/header_logo.svg"   /> 
-  <img align="left" alt="postman" width="45" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+  <img  alt="postman" width="45" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
   <img align="left" alt="git" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"  /> 
   <img align="left" alt="linux" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"  /> 
 
