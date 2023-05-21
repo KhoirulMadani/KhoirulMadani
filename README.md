@@ -36,9 +36,11 @@
   <img align="left" alt="javascript" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"   /> 
   <img align="left" alt="typescript" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"    />
   <img align="left" alt="reactnative" width="40" src="https://reactnative.dev/img/header_logo.svg"   /> 
-  <img align="right" alt="postman" width="45" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+  <img align="left" alt="postman" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
   <img align="left" alt="git" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"  /> 
-  <img align="left" alt="linux" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"  /> 
+  <img align="right" alt="windows" width="40" src="https://cdn-icons-png.flaticon.com/512/906/906308.png"  /> 
+  <img align="right" alt="linux" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"  /> 
+  <img align="right" alt="android" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"  />
 
 </br>
 </br>
