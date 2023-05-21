@@ -33,7 +33,6 @@
   <img align="left" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="34"/>
   <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img align="left" alt="CSS" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> 
   <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35"  /> 
   <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="35"  />
   <img align="left" src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="38" /> 
