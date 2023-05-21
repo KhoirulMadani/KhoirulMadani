@@ -52,6 +52,5 @@
   <p><img src="https://github-readme-stats.vercel.app/api?username=khoirulmadani&show_icons=true&theme=tokyonight" alt="khoirulmadani" />
   <p>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=khoirulmadani&show_icons=true&theme=tokyonight" alt="khoirulmadani" />
-  <img align="right" alt="Coding" width="200"  src="https://media.tenor.com/caUlolUYCdoAAAAM/luffy.gif">
   </p>
 
