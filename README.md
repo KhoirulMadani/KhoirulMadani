@@ -26,32 +26,32 @@
 </br>
 </br>
 
-#
 
-<h3 align="left">Languages and Tools:</h3>
-
-  <img align="left" alt="figma" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"  />
-  <img align="left" alt="HTML" width="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  <img align="left" alt="CSS" width="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  <img align="left" alt="javascript" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"   /> 
-  <img align="left" alt="typescript" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"    />
-  <img align="left" alt="reactnative" width="40" src="https://reactnative.dev/img/header_logo.svg"   /> 
-  <img align="left" alt="postman" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-  <img align="left" alt="git" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"  /> 
-  <img align="right" alt="windows" width="40" src="https://cdn-icons-png.flaticon.com/512/906/906308.png"  /> 
-  <img align="right" alt="linux" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"  /> 
-  <img align="right" alt="android" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"  />
-
-</br>
-</br>
+## 🚀 Languages and Tools:
 
 
-#
+<p align="center"> 
+  <img alt="figma" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"  />
+  <img alt="HTML" width="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img alt="CSS" width="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img alt="javascript" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"   /> 
+  <img alt="typescript" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"    />
+  <img alt="reactnative" width="40" src="https://reactnative.dev/img/header_logo.svg"   /> 
+  <img alt="postman" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+  <img alt="git" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"  /> 
+  <img alt="windows" width="40" src="https://cdn-icons-png.flaticon.com/512/906/906308.png"  /> 
+  <img alt="linux" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"  /> 
+  <img aalt="android" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"  />
 
-</br>
-</br>
-  <p><img src="https://github-readme-stats.vercel.app/api?username=khoirulmadani&show_icons=true&theme=tokyonight" alt="khoirulmadani" />
-  <p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=khoirulmadani&show_icons=true&theme=tokyonight" alt="khoirulmadani" />
+  <p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khoirulmadani&show_icons=true&theme=tokyonight" alt="khoirulmadani" />
   </p>
 
+
+## 📊 My Github Stats
+
+</br>
+<p align="center"> 
+   <a> <img src="https://github-readme-streak-stats.herokuapp.com/?user=khoirulmadani&show_icons=true&theme=tokyonight" alt="khoirulmadani" /></a>
+   <a> <img src="https://github-readme-stats.vercel.app/api?username=khoirulmadani&show_icons=true&theme=tokyonight" alt="khoirulmadani" /></a>
+</br>
