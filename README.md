@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact I am also an **IT Support & UI Design**
 
-- 👨‍💻 All of my projects are available at **[My Web](https://khoirulmadani.github.io/)**
+- 👨‍💻 All of DEMO my projects are available at **[My Web](https://khoirulmadani.github.io/)**
 
 - 📫 How to reach me **hawwari.asdhani21@gmail.com**
 
