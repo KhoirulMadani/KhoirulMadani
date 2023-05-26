@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/_a.k.e.y_" c><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_a.k.e.y_" height="35px"/></a>
-<a href="https://linkedin.com/in/khairul-madani-336a79260" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png"  alt="khairul-madani-336a79260"  height="43px"/></a>
-<a href="mailto:hawwari.asdhani21@gmail.com" align="center"><img align="center" src="https://img.icons8.com/color/344/gmail-new.png" height="40px"/></a>
+<a href="https://instagram.com/_a.k.e.y_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_a.k.e.y_" height="35px"/></a>
+<a href="https://linkedin.com/in/khairul-madani-336a79260" target="_blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png"  alt="khairul-madani-336a79260"  height="43px"/></a>
+<a href="mailto:hawwari.asdhani21@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/color/344/gmail-new.png" height="40px"/></a>
 </p>
 
 </br>
@@ -42,14 +42,12 @@
   <img alt="windows" width="40" src="https://cdn-icons-png.flaticon.com/512/906/906308.png"  /> 
   <img alt="linux" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"  /> 
   <img aalt="android" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"  />
-
-  <p align="center">
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khoirulmadani&show_icons=true&theme=tokyonight" alt="khoirulmadani" />
-  </p>
+</p>
 
 
 ## 📊 My Github Stats
-
 </br>
 <p align="center"> 
    <a> <img src="https://github-readme-streak-stats.herokuapp.com/?user=khoirulmadani&show_icons=true&theme=tokyonight" alt="khoirulmadani" /></a>
