@@ -49,7 +49,7 @@
 </br>
 
 
-## Connect with me:
+## 🌐 Connect with me:
 <p align="left">
 <a href="https://instagram.com/_a.k.e.y_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_a.k.e.y_" height="35px"/></a>
 <a href="https://linkedin.com/in/khairul-madani-336a79260" target="_blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png"  alt="khairul-madani-336a79260"  height="43px"/></a>
