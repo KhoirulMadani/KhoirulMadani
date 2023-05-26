@@ -1,6 +1,6 @@
 [![@khoirulmadani's Holopin board](https://holopin.me/khoirulmadani)](https://holopin.io/@khoirulmadani)
 
-<h1 align="center">Hi 👋, I'm Khoirul Madani</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Khoirul Madani</h1>
 <h3 align="center">🕌->🤲🏻->🧑🏻‍💻->💸->🧔🏻🧕🏻🕋->🏡->🤵🏼‍♂️👰🏻‍♀️->✈️->👪->🕋</h3>
 <img align="right" alt="Coding" width="400"  src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
